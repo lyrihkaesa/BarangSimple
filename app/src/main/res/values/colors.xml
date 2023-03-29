@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="emerald_200">#a7f3d0</color>
+    <color name="emerald_500">#10b981</color>
+    <color name="emerald_700">#047857</color>
+    <color name="sky_200">#bae6fd</color>
+    <color name="sky_700">#0369a1</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red_500">#ef4444</color>
+
+    <color name="colorPrimary">@color/emerald_500</color>
+</resources>

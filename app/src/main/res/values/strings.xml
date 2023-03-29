@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">BarangSimple</string>
+    <string name="titik_tengah">·</string>
+    <string name="medicine_name">Nama</string>
+    <string name="description">Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit.</string>
+    <string name="default_img_url">https://lyrihkaesa.github.io/img/medicine/default-obatkaesa.png</string>
+    <string name="entry_medicine">Tambah Obat</string>
+    <string name="entry_data_medicine">Input Data Obat</string>
+    <string name="update_data_medicine">Update Data Obat</string>
+    <string name="author">Kukuh Setya Arumansyah</string>
+    <string name="email">kukuhsetyaa@gmail.com</string>
+    <string name="desc_author">Mahasiswa jurusan Sistem Informasi di Universitas Dian Nuswantoro. Yang memiliki hobbi bermain permainan Toram Online, yang berkencimbung di dunia Software Engginer khususnya Back-End dan dunia Jaringan Komputer RT/RW Net seperti Mikrotik.</string>
+    <string name="about">Tentang</string>
+    <string name="share">Bagikan</string>
+    <string name="label_kode">Kode</string>
+    <string name="hint_kode">Isi dengan kode barang!</string>
+    <string name="label_nama">Nama</string>
+    <string name="hint_nama">Isi dengan nama barang!</string>
+    <string name="label_satuan">Satuan</string>
+    <string name="hint_satuan">Isi dengan Satuan barang!</string>
+    <string name="label_harga">Harga</string>
+    <string name="hint_harga">Isi dengan harga barang!</string>
+    <string name="text_simpan">Simpan</string>
+    <string name="text_batal">Batal</string>
+    <string name="update_page">Update</string>
+    <string name="img_url">Image Url</string>
+    <string name="update">Simpan Edit</string>
+    <string name="text_hapus">Hapus</string>
+    <string-array name="data_name">
+        <item>Sumagesic 4 Tablet</item>
+        <item>Decolgen 4 Tablet</item>
+        <item>Vitamin C IPI 50 mg 45 Tablet</item>
+        <item>Betadine Mouthwash &amp; Gargle 190 ml</item>
+        <item>Panadol Extra 10 Kaplet</item>
+        <item>Postinor 2 Tablet</item>
+        <item>Dermatix Ultra Gel 15 g</item>
+        <item>Acetylcysteine 200 mg 10 Kapsul</item>
+        <item>Dapyrin 500 mg 10 Tablet</item>
+        <item>Acitral Suspensi 120 ml</item>
+        <item>Orezinc Sirup 60 ml</item>
+        <item>Fluimucil 200 mg 10 Kapsul</item>
+    </string-array>
+    <string-array name="data_type">
+        <item>tablet</item>
+        <item>tablet</item>
+        <item>tablet</item>
+        <item>cair</item>
+        <item>kaplet</item>
+        <item>tablet</item>
+        <item>oles</item>
+        <item>kapsul</item>
+        <item>tablet</item>
+        <item>sirup</item>
+        <item>sirup</item>
+        <item>kapsul</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Sumagesic tablet adalah obat yang digunakan untuk meringankan rasa sakit, seperti sakit kepala, sakit gigi, nyeri otot, radang sendi atau arthritis, dan kram menstruasi. Selain itu, obat ini pun digunakan untuk menurunkan demam. Sumagesic tablet mengandung paracetamol sebagai zat aktifnya. Paracetamol memiliki aktivitas analgesik atau meredakan rasa sakit dan antipiretik atau menurunkan suhu tubuh. Obat ini merupakan golongan obat bebas, sehingga untuk mendapatkannya tidak memerlukan resep dokter. Akan tetapi, penggunaan obat ini harus tetap mengikuti aturan pakai yang tertera pada kemasan.</item>
+        <item>Decolgen adalah obat berbentuk tablet yang telah bersertifikat halal dan berkhasiat untuk mengatasi gejala flu seperti demam, hidung tersumbat, bersin-bersin, serta sakit kepala. Decolgen mengandung bahan aktif parasetamol, fenilpropanolamin HCl, dan klorfeniramin maleat. Parasetamol berkhasiat sebagai analgetik (meringankan rasa nyeri) dan antipiretik (menurunkan demam). Kemudian fenilpropanolamin HCI merupakan dekongestan yang mampu meredakan pilek dan hidung tersumbat. Sedangkan klorfeniramin maleat berperan sebagai antihistamin, yaitu untuk menekan produksi histamin yang menyebabkan reaksi alergi seperti bersin-bersin dan hidung gatal. Decolgen merupakan obat bebas terbatas, sehingga frekuensi penggunaannya harus sesuai dengan kemasan atau anjuran dari dokter, apoteker, atau tenaga kesehatan lainnya. Decolgen boleh diberikan pada wanita hamil setelah berkonsultasi dengan dokter terlebih dahulu dan apabila manfaatnya melebihi risiko yang mungkin timbul pada janin.</item>
+        <item>Vitamin C IPI Tablet merupakan suplemen yang digunakan untuk memenuhi kebutuhan vitamin C tubuh. Vitamin C sangat bermanfaat untuk meningkatkan daya tahan tubuh, sebagai antioksidan yang melindungi sel dan jaringan tubuh dari kerusakan akibat radikal bebas, mencegah terjadinya penuaan dini, dan menurunkan risiko penyakit kanker atau jantung. Vitamin C juga berperan aktif bagi kesehatan kulit, yaitu dengan cara memproduksi kolagen yang bermanfaat untuk mencegah keriput, memperlambat penuaan, serta mencerahkan kulit. Vitamin C dapat diperoleh secara alami dengan mengonsumsi buah dan sayuran yang kaya akan kandungan vitamin C atau dengan mengonsumsi suplemen vitamin C.</item>
+        <item>Betadine Mouthwash &amp; Gargle adalah obat kumur antiseptik yang digunakan untuk mengatasi gusi bengkak, sakit tenggorokan, sariawan, bau mulut, dan napas tak segar pada rongga mulut. Obat kumur ini biasanya juga diresepkan dokter untuk mengatasi infeksi akut pada mulut dan tenggorokan,seperti gingivitis atau radang gusi serta merawat rongga mulut setelah atau sebelum operasi gigi dan mulut. Betadine Mouthwash &amp; Gargle mengandung povidone iodine. Berkumur secara teratur dan berkala menggunakan povidone iodine dapat membantu mengurangi pergerakan virus, bakteri, dan jamur dari mulut ke dalam saluran pernapasan hingga ke paru-paru.  Obat ini merupakan obat bebas terbatas yang tidak memerlukan resep dokter. Perhatikan petunjuk dan aturan pakai pada kemasan untuk mencegah penyalahgunaan dan efek samping obat yang tidak diharapkan.</item>
+        <item>Panadol Extra kaplet adalah obat untuk meredakan nyeri, seperti sakit kepala sebelah (migrain), sakit punggung, nyeri reumatik, dan sakit gigi, serta menurunkan demam. Obat ini mengandung paracetamol dan caffeine. Paracetamol atau acetaminophen merupakan obat yang sering digunakan untuk mengatasi nyeri ringan hingga sedang. Sementara, caffeine sendiri dapat mengatasi kelelahan dan meningkatkan efek penghilang rasa sakit dari paracetamol. Panadol Extra kaplet merupakan obat bebas yang tidak memerlukan resep dokter.</item>
+        <item>Postinor 2 tablet adalah obat kontrasepsi darurat untuk mencegah kehamilan yang dikonsumsi setelah berhubungan seksual tanpa perlindungan atau kondom. Obat ini mengandung zat aktif levonorgestrel. Postinor–2 tablet sebaiknya dikonsumsi sesegera mungkin dengan rentang waktu 12–72 jam atau tiga hari setelah berhubungan seks. Semakin cepat diminum, efektivitas obat ini akan semakin tinggi. Bahkan, bila Postinor-2 tablet dikonsumsi sesegera mungkin, kehamilan dapat dicegah hingga 99%. Postinor hanya boleh dikonsumsi satu kali dalam kondisi darurat, bukan seperti pil KB yang diminum secara rutin. Menggunakan obat ini tidak akan menghentikan kehamilan yang sudah terjadi atau melindungi Anda dan pasangan dari penyakit menular seksual. Obat ini termasuk dalam golongan obat keras yang harus menggunakan resep dokter.</item>
+        <item>Dermatix Ultra Gel adalah obat oles yang digunakan untuk memudarkan bekas luka di kulit. Saat kulit terluka, tubuh akan berusaha secepatnya untuk memulihkan keadaan kulit seperti semula dengan bantuan kolagen. Akan tetapi, kolagen yang terbentuk secara alami dalam tubuh tidak tersusun rapi, sehingga terbentuk kondisi kulit yang berbeda dari kulit normal yang tidak terluka. Dermatix Ultra Gel mengandung cyclic, polymeric siloxanes, dan vitamin C ester yang dapat merangsang dan mengarahkan kolagen untuk memperbaiki tekstur kulit. Selain itu, gel ini juga efektif menutup bekas luka bakar, menyembuhkan luka parut yang biasanya timbul setelah operasi, dan mencegah terjadinya keloid atau bekas luka yang menonjol. Dengan menggunakan obat Dermatix Ultra Gel secara teratur, bekas luka akan memudar dan rasa gatal di sekitar area bekas luka juga akan menghilang.</item>
+        <item>Acetylcysteine Kapsul merupakan obat yang digunakan untuk mengatasi serta mengencerkan dahak di saluran pernapasan akibat penyakit paru-paru, seperti bronkitis, tuberkulosis, pneumonia (radang paru-paru yang disebabkan oleh infeksi), serta cystic fibrosis (penyakit keturunan yang menyebabkan lendir di dalam tubuh menjadi kental dan lengket). Acetylcysteine Kapsul juga mengatasi keracunan akibat konsumsi paracetamol. Obat ini mengandung zat aktif N-acetylcysteine dan tergolong obat bebas terbatas, sehingga frekuensi penggunaannya harus sesuai dengan kemasan atau anjuran dokter, apoteker, atau tenaga kesehatan lainnya.</item>
+        <item>Pyridine adalah obat keras yang mengandung paracetamol dan bermanfaat dalam meringankan rasa sakit seperti sakit kepala, sakit gigi dan menurunkan demam. Obat ini hanya dapat dibeli dengan menggunakan resep dokter.</item>
+        <item>Acitral suspensi adalah obat untuk mengatasi kondisi yang disebabkan berlebihnya asam lambung, seperti tukak atau luka pada lambung dan usus dua belas jari, serta gastritis. Obat ini akan meringankan gejala yang ditimbulkan gangguan pencernaan tersebut, misalnya mual, muntah, perut kembung, nyeri pada ulu hati, dan nyeri lambung. Acitral suspensi mengandung zat aktif aluminium hidroksida atau Al (OH)3, magnesium hidroksida atau Mg (OH)2, dan simethicone. Kombinasi aluminium hidroksida, magnesium hidroksida, dan simethicone yang terkandung dalam juga dapat digunakan untuk meredakan kembung yang disebabkan gas atau ketidaknyamanan perut yang disebabkan makan atau minum terlalu banyak. Obat ini merupakan obat bebas yang tidak memerlukan resep dokter.</item>
+        <item>Orezinc Sirup merupakan obat yang digunakan untuk mengatasi diare pada anak. Orezinc Sirup mengandung zinc yang bermanfaat untuk meringankan gejala diare pada anak sekaligus mempercepat penyembuhannya. Zinc juga berfungsi untuk mencegah anak terkena diare, disentri, dan infeksi saluran pernapasan. Selain itu, zinc juga berperan dalam menjaga metabolisme tubuh seperti membantu proses sintesis protein, pertumbuhan sel, menjaga kesimbangan air, dan elektrolit tubuh. Selain melalui obat, zinc juga dapat diperoleh melalui beberapa makanan seperti daging, ayam, tiram, kacang, susu dan keju.</item>
+        <item>Fluimucil adalah obat yang digunakan untuk mengobati infeksi saluran pernapasan yang disertai dahak kental. Misalnya, bronkitis akut atau kronis, dan emfisema paru atau penyakit paru-paru yang menyebabkan napas menjadi lebih pendek. Obat ini juga dapat mengatasi infeksi pernapasan lain, seperti fibrosis kistik atau kelainan bawaan yang menyebabkan terbentuknya lendir kental di paru-paru dan sistem pencernaan serta bronkiektasis atau gangguan yang menyebabkan bronkus atau saluran udara melebar, menebal, dan rusak secara permanen. Fluimucil mengandung zat aktif N-acetylcysteine. Obat ini merupakan obat bebas terbatas, sehingga frekuensi penggunaannya harus sesuai petunjuk pada kemasan atau anjuran dokter, apoteker, atau tenaga kesehatan lainnya.</item>
+    </string-array>
+    <integer-array name="data_price">
+        <item>2425</item>
+        <item>2000</item>
+        <item>5000</item>
+        <item>5000</item>
+        <item>10600</item>
+        <item>25300</item>
+        <item>126300</item>
+        <item>6500</item>
+        <item>2300</item>
+        <item>32000</item>
+        <item>30000</item>
+        <item>70000</item>
+    </integer-array>
+    <string-array name="data_img_url">
+        <item>https://lyrihkaesa.github.io/img/medicine/sumagesic-4-tablet.jpeg</item>
+        <item>https://lyrihkaesa.github.io/img/medicine/decolgen-4-tablet.jpeg</item>
+        <item>https://lyrihkaesa.github.io/img/medicine/vitamin-c-ipi-50-mg-45-tablet.jpeg</item>
+        <item>https://lyrihkaesa.github.io/img/medicine/betadine-mouthwash-and-gargle-190-ml.jpeg</item>
+        <item>https://lyrihkaesa.github.io/img/medicine/panadol-extra-10-kaplet.jpeg</item>
+        <item>https://lyrihkaesa.github.io/img/medicine/postinor-2-tablet.jpeg</item>
+        <item>https://lyrihkaesa.github.io/img/medicine/dermatix-ultra-gel-15-g.jpeg</item>
+        <item>https://lyrihkaesa.github.io/img/medicine/acetylcysteine-200-mg-10-kapsul.jpeg</item>
+        <item>https://lyrihkaesa.github.io/img/medicine/dapyrin-500-mg-10-tablet.jpeg</item>
+        <item>https://lyrihkaesa.github.io/img/medicine/acitral-suspensi-120-ml.jpeg</item>
+        <item>https://lyrihkaesa.github.io/img/medicine/orezinc-sirup-60-ml.jpeg</item>
+        <item>https://lyrihkaesa.github.io/img/medicine/fluimucil-200-mg-10-kapsul.jpeg</item>
+    </string-array>
+</resources>
